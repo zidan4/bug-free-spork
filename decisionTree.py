@@ -19,4 +19,4 @@ y = df['Go']
 dtree = DecisionTreeClassifier()
 dtree = dtree.fit(X, y)
 
-tree.plot_tree(dtree, feature_names=features) 
+tree.plot_tree(dtree, feature_names=features)
