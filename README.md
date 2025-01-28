@@ -1,6 +1,6 @@
 # bug-free-spork
 
-machine learning
+machine learning.
 
 
 decision tree algorithm
